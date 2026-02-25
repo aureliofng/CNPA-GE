@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="CNPA-GE Maskable">
+  <rect width="512" height="512" fill="#0f766e" />
+  <rect x="48" y="48" width="416" height="416" rx="84" fill="#14b8a6" />
+  <text x="50%" y="46%" text-anchor="middle" font-size="96" font-family="Arial, sans-serif" font-weight="700" fill="#ffffff">CNPA</text>
+  <text x="50%" y="62%" text-anchor="middle" font-size="68" font-family="Arial, sans-serif" font-weight="700" fill="#ecfeff">GE</text>
+</svg>

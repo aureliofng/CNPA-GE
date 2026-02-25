@@ -1,0 +1,26 @@
+{
+  "name": "cnpa-ge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun x nuxi dev",
+    "build": "bun x nuxi build",
+    "preview": "bun x nuxi preview",
+    "db:seed": "bun run scripts/seed.ts",
+    "recalc:iabc": "bun run scripts/recalculate-iabc.ts"
+  },
+  "dependencies": {
+    "@nuxt/ui": "^3.0.0",
+    "@vite-pwa/nuxt": "^1.0.0",
+    "drizzle-orm": "^0.39.0",
+    "exceljs": "^4.4.0",
+    "nuxt": "^4.0.0",
+    "pdfkit": "^0.15.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.30.0",
+    "typescript": "^5.7.0"
+  }
+}
